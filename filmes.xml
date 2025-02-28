@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<filmes>
+    <filme id="1">
+        <titulo>Vingadores</titulo>
+        <resumo>Uns nego fantasiado</resumo>
+        <genero>Aventura</genero>
+        <genero>Ação</genero>
+        <elenco>
+            <ator>Robert</ator>
+            <ator>Chris</ator>
+            <ator>Mark</ator>
+        </elenco>
+        <dataLancamento pais="Brasil">26 de abril de 2018</dataLancamento>
+    </filme>
+
+    <filme id="2">
+        <titulo>Liga da justiça</titulo>
+        <resumo>Uns nego fantasiado só que de outra marca</resumo>
+        <genero>Aventura</genero>
+        <genero>Ação</genero>
+        <elenco>
+            <ator>Ben</ator>
+            <ator>Henry</ator>
+            <ator>Jason</ator>
+        </elenco>
+        <dataLancamento pais="Brasil">10 de novembro de 2020</dataLancamento>
+    </filme>
+
+    <filme id="3">
+        <titulo>Mogli</titulo>
+        <resumo>Menino lobo aauuuu</resumo>
+        <genero>Aventura</genero>
+        <genero>Animação</genero>
+        <elenco>
+            <ator>Menino</ator>
+            <ator>Urso</ator>
+            <ator>Tigre</ator>
+        </elenco>
+        <dataLancamento pais="Brasil">26 de abril de 2018</dataLancamento>
+    </filme>
+</filmes>
